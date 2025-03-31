@@ -3,7 +3,7 @@
 This project contains scripts and notebooks for preprocessing mass spectrometry (MS) data obtained using the Advion ASAP-MS system. It is designed for batch processing of multiple CSV files, background subtraction, peak detection, and visualisation.
 
 # Advion ASAP-MS datapreprocessing.ipynb
-  A Jupyter Notebook demonstrating the step-by-step usage of the data preprocessing functions. It includes file path handling, visualization, and example outputs.
+  A Jupyter Notebook demonstrating the step-by-step usage of the data preprocessing functions. It includes file path handling, visualization, and example outputs. You can either handle all the files at the same time, or you can manually handle them one by one.
   
 # dataprocessing-bin1.py
   A Python script containing reusable functions for:
