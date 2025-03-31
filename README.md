@@ -1,4 +1,4 @@
-# ASAP-MS Advion ASAP-MS Data Preprocessing
+# ASAP-MS Data Preprocessing
 
 This project contains scripts and notebooks for preprocessing mass spectrometry (MS) data obtained using the Advion ASAP-MS system. It is designed for batch processing of multiple CSV files, background subtraction, peak detection, and visualisation.
 
